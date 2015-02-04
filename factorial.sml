@@ -1,4 +1,7 @@
-fun factorial n = if n = 0 then 1 else n * factorial (n-1);
-val answer = factorial 10;
+(* Man comments are cool *)
 
-print(Int.toString(answer) ^ "\n")
+fun factorial n = 
+	if n = 0 then 1 
+	else n * factorial (n-1);
+
+val _ = print(Int.toString(factorial 10) ^ "\n")
