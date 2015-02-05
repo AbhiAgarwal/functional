@@ -23,3 +23,4 @@
 ### Notes
 
 - ```val _ = print(Int.toString(10) ^ "\n")``` stops ```val it = () : unit```
+- Functional language, side-effect freedom, Higher-order functions, Polymorphism, Abstract data types, Recursion, Rule-based programming, Strong typing
