@@ -9,6 +9,16 @@
 - [Learn X in Y minutes Where X=Standard ML](http://learnxinyminutes.com/docs/standard-ml/)
 - [CS421/521: Compilers and Interpreters, Spring 2015, Yale University](http://flint.cs.yale.edu/cs421/lectureNotes/index.html)
 - Elements of ML Programming
+- [Programming languages in ML](https://github.com/ddrezga/proglang)
+- [Standard ML Programming on Github](https://github.com/kih95/SML)
+- [Wikibooks](http://en.wikibooks.org/wiki/Standard_ML_Programming/Types)
+- [Functional programming - Notes on SML's Standard Library](http://www.it.uu.se/edu/course/homepage/funpro/ht07/handout/f10-stdlib.html)
+- [SML, Some Basic Examples](http://cs.fit.edu/~ryan/sml/intro.html)
+- [Programming in Standard ML](http://www.cs.cmu.edu/~rwh/introsml/contents.htm)
+
+### Lectures
+
+- [CSE341 - Lecture #2](https://courses.cs.washington.edu/courses/cse341/14sp/slides/lec02.pdf)
 
 ### Notes
 
